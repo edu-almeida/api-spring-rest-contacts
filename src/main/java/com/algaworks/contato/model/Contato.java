@@ -1,3 +1,15 @@
+/*
+ *	Essa classe é responsável por ser o modelo dos dados.
+ *	Ela representa informações de um contato simples.
+ *	Os métodos get, set, comparação e demais são feitos dinamicamente através do lombok.
+ *
+ *	IFNMG - Sistemas de Informação
+ *	Eduardo Pereira de Almeida
+ *	02/08/2021
+ *
+ *	version: 1.0.0.1
+ */
+
 package com.algaworks.contato.model;
 
 import javax.persistence.Entity;
