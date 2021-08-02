@@ -1,3 +1,15 @@
+/*
+ *	Classe equivalente a um CRUD, responsável por oferecer os métodos para interagir com a jpa,
+ * os dados e estabelecer os caminhos para comunicação.
+ * Possibilitando adicionar, listar, pesquisar, alterar e deletar.
+ *
+ *	IFNMG - Sistemas de Informação
+ *	Eduardo Pereira de Almeida
+ *	02/08/2021
+ *
+ *	version: 1.0.0.1
+ */
+
 package com.algaworks.contato.resource;
 
 import java.util.List;
