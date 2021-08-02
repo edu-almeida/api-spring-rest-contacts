@@ -1,3 +1,13 @@
+/*
+ *	Classe de arranque da aplicação.
+ *
+ *	IFNMG - Sistemas de Informação
+ *	Eduardo Pereira de Almeida
+ *	02/08/2021
+ *
+ *	version: 1.0.0.1
+ */
+
 package com.algaworks.contato;
 
 import org.springframework.boot.SpringApplication;
