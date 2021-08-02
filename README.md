@@ -32,9 +32,10 @@ https://api-rest-com-spring.herokuapp.com/contatos
 ```
 O link direto retorna uma lista de contatos, caso haja.
 
-Estrutura do JSON para requisições, exemplo:
+Estrutura base do JSON para requisições, exemplo:
 ~~~json
 {
+    "id":1,
     "nome":"Alice",
     "sobreNome":"Baster",
     "numeroCelular":"3899999999",
