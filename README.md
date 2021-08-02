@@ -23,7 +23,7 @@ http://www.linhadecodigo.com.br/artigo/3712/testando-servicos-web-api-com-postma
 Clone o projeto caso queira adapta-lo ou usar em ambiente de desenvolvimento.
 
 ```sh
-https://edu-almeida.github.io/MinhasLeituras/
+https://github.com/edu-almeida/api-spring-rest-contacts/
 ```
 
 A API está disponivel no endereo:
