@@ -10,9 +10,13 @@ Este projeto foi trabalha com:
 - PostgreSQL
 - JSON
 
-Para interagir com aplicação pode ser usado o Postmam, para envio de requisições html a API.
+Para interagir com aplicação pode ser usado o Postman, para envio de requisições html a APIn
 ```sh
 https://www.postman.com/downloads/
+```
+Como utilizar o Postman:
+```sh
+http://www.linhadecodigo.com.br/artigo/3712/testando-servicos-web-api-com-postman.aspx
 ```
 
 ## Ambiente de programação
